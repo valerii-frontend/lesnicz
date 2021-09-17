@@ -1245,6 +1245,7 @@ body._lock {
 .swiper-container {
   width: 100%;
   height: 480px;
+  position:relative;
 }
 
 .swiper-slide {
