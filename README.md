@@ -4,7 +4,8 @@
 1. Convert Figma design to product promo page
 2. Add Slider
 3. Add main screen animation
-4. Full responsive view
+4. Add main screen parallax
+5. Full responsive view
 
 **⚙ Technologies & Tools**
 1. JavaScript
