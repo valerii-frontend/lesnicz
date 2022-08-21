@@ -1,4 +1,4 @@
-# Design studio concept site
+# Product company promo page
 
 **📝 Task**
 1. Convert Figma design to product promo page
